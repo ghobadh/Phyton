@@ -1,0 +1,5 @@
+name = input ('What is your name? ')
+color = input('What is your favorite color? ')
+age = int(input ('What is your birth year? '))
+weight = float(input ('What is your favorite weight(lbs)? '))
+print ('Hi ' + name + '. You favorite color is ' + color + ' and the age is ' + str(2024- age) + ' your weight is ' + str(weight * 0.45) +'kg.')
